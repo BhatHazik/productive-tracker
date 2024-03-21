@@ -1,0 +1,17 @@
+{
+  "name": "productive-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hazik hilal",
+  "license": "ISC",
+  "dependencies": {
+    "active-win": "^8.2.1",
+    "chrome-remote-interface": "^0.33.0",
+    "nodemon": "^3.1.0"
+  }
+}
