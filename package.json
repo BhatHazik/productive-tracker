@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon/index.js",
+    "dev": "nodemon/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "hazik hilal",
@@ -12,6 +12,8 @@
   "dependencies": {
     "active-win": "^8.2.1",
     "chrome-remote-interface": "^0.33.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
     "nodemon": "^3.1.0"
   }
 }
